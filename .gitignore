@@ -1,0 +1,6 @@
+faiss_index/
+knowledge/
+__pycache__/
+.venv/
+*.pyc
+.env
